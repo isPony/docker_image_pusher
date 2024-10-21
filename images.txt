@@ -1,1 +1,1 @@
-kubernetesui/metrics-scraper:v1.0.8
+docker.io/calico/cni:v3.25.0
